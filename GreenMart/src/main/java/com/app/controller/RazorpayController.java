@@ -32,8 +32,8 @@ public class RazorpayController {
 	
 	
 	private RazorpayClient client;
-	private static final String SECRET_ID1 = "rzp_test_g6DuJ0XYgkDJg7";
-	private static final String SECRET_KEY1 = "p6Oo3ZdaVOlxb3Pl5nBCHrQe";
+	private static final String SECRET_ID1 = "ID";
+	private static final String SECRET_KEY1 = "key";
 	//private static final String SECRET_ID2 = "rzp_test_J4fInjDpTX475d";
 	//private static final String SECRET_KEY2 = "r8fNXAB78RmsVfdiQbWGwyjr";
 	
